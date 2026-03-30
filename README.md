@@ -148,5 +148,5 @@ Academic Year 2024–25
 ---
 
 ## 📄 License
-
-This project is for **educational and learning purposes** only.
+ 
+This project is licensed under the MIT License.
